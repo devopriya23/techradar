@@ -33,5 +33,12 @@
     "quadrant": "platforms",
     "isNew": "FALSE",
     "description": "Azure Repos is a set of version control tools that you can use to manage your code."
+  },
+  {
+    "name": "JSF",
+    "ring": "hold",
+    "quadrant": "languages & frameworks",
+    "isNew": "FALSE",
+    "description": "We continue to see teams run into trouble using JSF ..."
   }
 ]
