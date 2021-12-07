@@ -34,19 +34,20 @@
     "isNew": "TRUE",
     "description": "GitHub Actions is a continuous integration and continuous delivery (CI/CD) platform that allows you to automate your build, test, and deployment pipeline. You can create workflows that build and test every pull request to your repository, or deploy merged pull requests to production."
   },
-  {
-    "name": "Azure Repos",
-    "ring": "hold",
-    "quadrant": "platforms",
-    "isNew": "FALSE",
-    "description": "Azure Repos is a set of version control tools that you can use to manage your code."
-  },
+
   {
     "name": "GoLang",
     "ring": "assess",
     "quadrant": "languages & frameworks",
     "isNew": "TRUE",
     "description": "Go is a statically typed, compiled programming language designed at Google by Robert Griesemer, Rob Pike, and Ken Thompson. Go is syntactically similar to C, but with memory safety, garbage collection, structural typing, and CSP-style concurrency."
+  },
+   {
+    "name": "Azure Repos",
+    "ring": "hold",
+    "quadrant": "platforms",
+    "isNew": "FALSE",
+    "description": "Azure Repos is a set of version control tools that you can use to manage your code."
   },
   {
     "name": "JSF",
